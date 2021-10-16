@@ -1,0 +1,59 @@
+Colors –
+Background:   #f7f9ff
+Black text:   #0c0c0c
+Red:          #ff3500
+
+Design –
+https://www.figma.com/file/ec2fnvhrq4367SBvodQDSvTH/A-Night-In-Japan
+
+Fonts –
+Roboto:     https://fonts.google.com/specimen/Roboto
+
+HTML:       <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,700" rel="stylesheet">
+CSS:        @import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,700');
+
+Typography –
+General: Roboto 18px at 1.3 line height, font weight 300
+Heading 1: Roboto 80px, 700 weight
+Heading 2: Roboto 40px, 700 weight
+Heading 3: Roboto 24px, 700 weight
+
+Sizes –
+Page width: 780px
+Copy width: 540px
+
+Content –
+A Night in Japan
+
+Blog 1 –
+Everybody wears Supreme
+One of the five supreme stores is located in omotensando in harajuku, Tokyo, and this store is a smaller one in Tokyo comparing with the other one in Shibuya.
+
+Blog 2 –
+All of the lights.
+The nightlife here runs the gamut, from rowdy izakayas and beer bars, to red-light entertainment and the infamous Robot Restaurant.
+
+Blog 3 –
+5 Tokyo train tips
+Here are my five tips to keep you sane and get you to your destination on the Tokyo Subway.
+
+About –
+About Tiffy
+Tiffy is a travel planning freak, formerly an Asia Pacific finance manager and currently a digital marketing ninja. Despite being a nervous flyer with plane jolts sending chills down her spine, Tiffy’s wanderlust has led her to visit Japan for 6 times (and counting). Her favorite cities are Kyoto and Tokyo and would choose to visit Japan over Paris in a heartbeat! 
+“Don't listen to what they say. Go see.”
+
+
+
+Sources –
+Supreme Blog Post:
+https://www.tokyocreative.com/articles/19065-experience-in-supreme-harajuku-tokyo-and-osaka
+
+All of the lights: 
+https://boutiquejapan.com/tokyo-nightlife-guide/
+
+5 Tokyo Train Tips: 
+https://www.2aussietravellers.com/mastering-the-tokyo-subway/
+
+Blog Author Bio: 
+https://asiatravelbug.com/blog/tokyo-itinerary-7-days-japan-travel/
+
